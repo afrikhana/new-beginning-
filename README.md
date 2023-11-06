@@ -1,9 +1,10 @@
 # new-beginning-
+# Quote of this journey( "Only by understanding oneself can one emerge stronger" Greek philosopher Socrates.)
 ![abbyss](https://github.com/afrikhana/new-beginning-/assets/126652969/a48e6bd0-520d-4212-b4db-85df169063f2)
 
 I am starting a new beginning in project development with the self-taught skills I have attained in Angular, React, TypeScript, JavaScript, and Python. I am excited to use my skills to create innovative and user-friendly solutions to real-world problems.
 
-I have always been passionate about technology and problem-solving. As a self-taught developer, I have learned to be resourceful and adaptable. I am also a quick learner and I am always eager to take on new challenges.
+I have always been passionate about technology and problem-solving. As a self-taught developer on other areas(Software Development), I have learned to be resourceful and adaptable. I am also a quick learner and I am always eager to take on new challenges.
 
 I am confident that my skills and experience make me a valuable asset to any project development team. I am also excited to start my own business and build a team of talented developers who share my passion for creating high-quality products.
 
